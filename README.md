@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! 👋😄
 
-<!--
-**rubeard/rubeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Damian. I'm a Full Stack Engineer based in Kraków, Poland. I specialize in apps using Ruby, Python & React, usually leveraging AWS for infrastructure 🖥️
 
-Here are some ideas to get you started:
+I love teaching people! 👨‍🏫 Here you can find all code snippets from my presentations in conferences and blogposts. I hope this collection will be growing consistently over time 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me in several places on the Internet - come and take a look if you want to find something nice to read:
+- https://kampikd.hashnode.dev/
+- https://kampikd.medium.com/
+- https://dev.to/kampikd/
+
+If you'd like to have a chat, feel free to reach out through email or Twitter.
+
+I'm glad to have you here! 🙂
