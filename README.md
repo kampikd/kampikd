@@ -5,7 +5,7 @@ My name is Damian. I'm a Full Stack Engineer based in Kraków, Poland. I special
 I love teaching people! 👨‍🏫 Here you can find all code snippets from my presentations in conferences and blogposts. I hope this collection will be growing consistently over time 😄
 
 You can find me in several places on the Internet - come and take a look if you want to find something nice to read:
-- https://kampikd.hashnode.dev/
+- https://kampikd.dev/
 - https://kampikd.medium.com/
 - https://dev.to/kampikd/
 
